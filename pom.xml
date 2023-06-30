@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.91.252.4:8022/GRACEIT/repository/Tesla-releases2/</url>
+	      <url>http://18.206.123.58:8022/GRACEIT/repository/Tesla-releases2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.91.252.4:8022/GRACEIT/repository/Tesla-snapshots2/</url>
+	      <url>http://18.206.123.58:8022/GRACEIT/repository/Tesla-snapshots2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
